@@ -11,7 +11,7 @@
 - react-portfolio-ui-project- https://663be9cbf811c8052a027b19--jayshankar-portfolio.netlify.app/
 - react-bookstore-ui-project- https://book-app-project.netlify.app/
 - react-furniture-ui-project- https://furniture-ui-react.netlify.app/
-- html & css netflix clone-projecct- https://6674f97a9b6d64143e03686f--loquacious-cannoli-adce63.netlify.app/
+- html & css netflix clone-projecct- https://667505ce543aae1f12ed7394--merry-concha-dd6055.netlify.app/
 
 <!---
 jayshankar-Dey/jayshankar-Dey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

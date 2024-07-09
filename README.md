@@ -13,6 +13,7 @@
 - react-furniture-ui-project- https://furniture-ui-react.netlify.app/
 - html & css netflix clone-projecct- https://667505ce543aae1f12ed7394--merry-concha-dd6055.netlify.app/
 - html & css pinterest clone-project- https://66768c66ff107b5b543e510d--flourishing-pie-b54f06.netlify.app/
+- MERN-socket.io-chat-app--https://chat-app-frontend-mountendue-dark.netlify.app/
 
 <!---
 jayshankar-Dey/jayshankar-Dey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

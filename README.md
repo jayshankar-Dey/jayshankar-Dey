@@ -6,6 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - MERN-STACK-socialmedia project- https://ui-ui-ui.netlify.app/
+- MERN-STACK-socialmedia-app Update Version- https://socialmediacom.netlify.app/
 - react-social-ui-project- https://social-ui-insta.netlify.app/
 - react-portFolio-ui-project- https://jay-portfolio-com.netlify.app/
 - react-portfolio-ui-project- https://663be9cbf811c8052a027b19--jayshankar-portfolio.netlify.app/

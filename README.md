@@ -16,7 +16,8 @@
 - html & css pinterest clone-project- https://66768c66ff107b5b543e510d--flourishing-pie-b54f06.netlify.app/
 - MERN-socket.io-chat-app--https://chat-app-frontend-mountendue-dark.netlify.app/
 - MERN Stack Bput Result website clone- https://bput-result-site.netlify.app/
--MERN Stack Tour Project -- https://ture-india.netlify.app/
+- MERN Stack Tour Project -- https://ture-india.netlify.app/
+
 <!---
 jayshankar-Dey/jayshankar-Dey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

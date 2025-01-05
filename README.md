@@ -17,7 +17,7 @@
 - MERN-socket.io-chat-app--https://chat-app-frontend-mountendue-dark.netlify.app/
 - MERN Stack Bput Result website clone- https://bput-result-site.netlify.app/
 - MERN Stack Tour Project --https://tour-india-com.netlify.app/
-- HTML and CSS portfolio project - https://portfolio-com-in.netlify.app/#About
+- HTML and CSS portfolio project - https://portfolio-com-in.netlify.app/
 
 <!---
 jayshankar-Dey/jayshankar-Dey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

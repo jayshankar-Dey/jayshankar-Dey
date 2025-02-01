@@ -21,6 +21,7 @@
 - Portfolio project in html and css - https://sagar-kumar-jena-portfolio.netlify.app/
 - galery app in react js - https://galery-app-in.netlify.app/
 - MERN Youtube clone project - https://youtube-com-project.netlify.app/
+- ai created portfolio - https://v0-jay-portfolio-bupx77.vercel.app/
 
 <!---
 jayshankar-Dey/jayshankar-Dey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

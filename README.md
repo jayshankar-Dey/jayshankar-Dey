@@ -23,6 +23,7 @@
 - MERN Youtube clone project - https://youtube-com-project.netlify.app/
 - ai created portfolio - https://v0-jay-portfolio-bupx77.vercel.app/
 - ai created chat app in react - https://v0-chat-page-uhj9im.vercel.app/
+- ai created text speeth app - https://v0-free-auto-voice-api.vercel.app/
 
 <!---
 jayshankar-Dey/jayshankar-Dey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

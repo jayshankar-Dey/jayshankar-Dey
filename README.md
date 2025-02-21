@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jayshankar-Dey
-- 👀 I’m interested in backand language like node js,react js , express js,mongodb,redis, typescript, javascript, python,sql, power bi
+- 👀 I’m interested in backand language like node js,react js , express js,mongodb,redis,graphql, typescript, javascript, python,sql
 - 🌱 I’m currently learning B tech in cse branch
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...

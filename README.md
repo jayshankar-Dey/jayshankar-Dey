@@ -25,6 +25,7 @@
 - ai created chat app in react - https://v0-chat-page-uhj9im.vercel.app/
 - ai created text speeth app - https://v0-free-auto-voice-api.vercel.app/
 - auto response text api = https://autoresponse.onrender.com/message/hii
+- MERN social-media app using localstorage and realtime - https://socialapp-com.netlify.app/
 
 <!---
 jayshankar-Dey/jayshankar-Dey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

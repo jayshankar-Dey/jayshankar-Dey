@@ -26,6 +26,7 @@
 - ai created text speeth app - https://v0-free-auto-voice-api.vercel.app/
 - auto response text api = https://autoresponse.onrender.com/message/hii
 - MERN social-media app using localstorage and realtime - https://socialapp-com.netlify.app/
+- React js and Node js simple video call app - https://call-video-app.netlify.app/
 
 <!---
 jayshankar-Dey/jayshankar-Dey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

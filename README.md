@@ -30,6 +30,7 @@
 - React js and node js simple group video call app - https://group-video-chat-app-re.netlify.app/
 - iam created a email send package for node js - https://www.npmjs.com/package/email-sender-npm
 - iam created a file get package for nodejs - https://www.npmjs.com/package/nodejs-uploder
+- iam created a colour console npm package - https://www.npmjs.com/package/console-log-alert
 <!---
 jayshankar-Dey/jayshankar-Dey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

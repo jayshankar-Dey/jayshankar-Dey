@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @jayshankar-Dey
-- 👀 I’m interested in backand language like node js,react js , express js,mongodb,redis,graphql, typescript, javascript, python,sql
+- 👀 I’m interested in  node js,react js , express js,mongodb,redis,graphql,typescript, javascript, python,sql
 - 🌱 I’m currently learning B tech in cse branch
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking a MERN stack job
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - MERN-STACK-socialmedia project- https://ui-ui-ui.netlify.app/
@@ -17,6 +16,7 @@
 - MERN-socket.io-chat-app--https://chat-app-frontend-mountendue-dark.netlify.app/
 - MERN Stack Bput Result website clone- https://bput-result-site.netlify.app/
 - MERN Stack Tour Project --https://tour-india-com.netlify.app/
+- MERN Stack Tour Project Updated Version - https://tourindia-ture.netlify.app/
 - HTML and CSS portfolio project - https://portfolio-com-in.netlify.app/
 - Portfolio project in html and css - https://sagar-kumar-jena-portfolio.netlify.app/
 - galery app in react js - https://galery-app-in.netlify.app/

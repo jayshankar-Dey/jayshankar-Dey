@@ -8,7 +8,7 @@
 - MERN-STACK-socialmedia-app Update Version- https://socialmediacom.netlify.app/
 - react-social-ui-project- https://social-ui-insta.netlify.app/
 - react-portFolio-ui-project- https://jay-portfolio-com.netlify.app/
-- react-portfolio-ui-project- jayshankar-portfolio.netlify.app/
+- react-portfolio-ui-project- https://jayshankar-portfolio.netlify.app/
 - react-bookstore-ui-project- https://book-app-project.netlify.app/
 - react-furniture-ui-project- https://furniture-ui-react.netlify.app/
 - html & css netflix clone-projecct- https://667505ce543aae1f12ed7394--merry-concha-dd6055.netlify.app/
